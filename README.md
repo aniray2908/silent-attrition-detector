@@ -45,7 +45,7 @@ silent-attrition-detector/\
 │ └── 03_silent_attrition_fusion.ipynb\
 │\
 ├── requirements.txt\
-└── README.md\
+└── README.md
 
 
 ---
