@@ -136,6 +136,29 @@ It mirrors how modern churn, fraud, and credit risk systems are built.
 
 ---
 
+---
+
+## 🔎 Key Findings
+
+### 1. Structural Stress Signals Drive Attrition Risk
+- Overtime and certain job roles significantly increase attrition probability.
+- Higher stock option levels correlate with improved retention.
+- Removing Age as a feature preserved performance while improving fairness.
+
+### 2. Behavioral Drift Captures Dynamic Disengagement
+- Sustained drops in communication volume relative to baseline indicate potential disengagement.
+- Behavioral risk can be standardized and integrated into structured models.
+
+### 3. Multi-Signal Fusion Improves Robustness
+- HR risk alone provides strong predictive power.
+- Behavioral risk alone is weaker but complementary.
+- A neural meta-fusion model captures nonlinear interactions between structural and behavioral signals.
+
+### Core Insight
+Attrition risk is amplified when structural stress factors align with measurable behavioral disengagement.
+
+---
+
 ## Author
 
 Anisha Ray
