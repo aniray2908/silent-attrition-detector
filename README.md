@@ -129,6 +129,13 @@ It mirrors how modern churn, fraud, and credit risk systems are built.
 
 ---
 
+## Dataset Sources & Licenses
+
+- IBM HR dataset (Kaggle) — subject to Kaggle Terms
+- Enron email dataset — public domain
+
+---
+
 ## Author
 
 Anisha Ray
