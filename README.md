@@ -37,15 +37,15 @@ Each module is developed independently and integrated via a meta-learning layer.
 ---
 
 ## 📂 Repository Structure
-silent-attrition-detector/
-│
-├── notebooks/
-│ ├── 01_hr_attrition_model.ipynb
-│ ├── 02_enron_behavioral_drift.ipynb
-│ └── 03_silent_attrition_fusion.ipynb
-│
-├── requirements.txt
-└── README.md
+silent-attrition-detector/\
+│\
+├── notebooks/\
+│ ├── 01_hr_attrition_model.ipynb\
+│ ├── 02_enron_behavioral_drift.ipynb\
+│ └── 03_silent_attrition_fusion.ipynb\
+│\
+├── requirements.txt\
+└── README.md\
 
 
 ---
