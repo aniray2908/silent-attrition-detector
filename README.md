@@ -24,13 +24,13 @@ to create a unified **Silent Attrition Risk Score**.
 
 ## 🏗 System Architecture
 
-Structured HR Model (CatBoost + Neural Tabular)
-↓
-Behavioral Drift Engine (Email Communication Analysis)
-↓
-Neural Meta-Fusion Layer
-↓
-Final Attrition Risk Score
+Structured HR Model (CatBoost + Neural Tabular)\
+↓\
+Behavioral Drift Engine (Email Communication Analysis)\
+↓\
+Neural Meta-Fusion Layer\
+↓\
+Final Attrition Risk Score\
 
 Each module is developed independently and integrated via a meta-learning layer.
 
