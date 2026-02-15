@@ -155,8 +155,22 @@ It mirrors how modern churn, fraud, and credit risk systems are built.
 
 ## Dataset Sources & Licenses
 
-- IBM HR dataset (Kaggle) — subject to Kaggle Terms
-- Enron email dataset — public domain
+This project uses publicly available datasets. The datasets are **not included** in this repository due to licensing restrictions.
+
+### 1. IBM HR Analytics Attrition Dataset
+Source: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset  
+License: Subject to Kaggle Terms of Use
+
+Users must download the dataset directly from Kaggle and place it inside the `data/` directory before running the notebooks.
+
+---
+
+### 2. Enron Email Dataset
+Source: https://www.kaggle.com/datasets/wcukierski/enron-email-dataset  
+Original Source: Federal Energy Regulatory Commission (FERC) public release  
+License: Public domain
+
+Users must download the dataset separately and place it inside the `data/` directory.
 
 ---
 ## Model Performance
