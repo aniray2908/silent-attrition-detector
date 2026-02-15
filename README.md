@@ -6,6 +6,12 @@ This project demonstrates production-style ML system design, moving beyond simpl
 
 ---
 
+## Design Philosophy
+
+This project treats attrition as a multi-signal probabilistic risk estimation problem rather than a single-model classification task. The modular architecture mirrors production churn and fraud systems.
+
+---
+
 ## 🔎 Project Motivation
 
 Traditional attrition models rely solely on structured HR features such as job role, overtime, and compensation.
@@ -105,6 +111,24 @@ silent-attrition-detector/\
 
 ---
 
+## Setup
+
+1. Clone the repository
+2. Install dependencies:
+   pip install -r requirements.txt
+
+3. Download datasets:
+   - IBM HR Dataset (Kaggle link)
+   - Enron Email Dataset (Kaggle link)
+
+4. Place files inside:
+   data/
+
+5. Run notebooks in order:
+   01 → 02 → 03
+
+---
+
 ## 📈 Why This Project Stands Out
 
 Unlike isolated ML notebooks, this project demonstrates:
@@ -135,6 +159,18 @@ It mirrors how modern churn, fraud, and credit risk systems are built.
 - Enron email dataset — public domain
 
 ---
+
+## Results
+
+HR Model (CatBoost)
+- ROC-AUC: 0.81
+- F1 Score: 0.72
+
+Neural Tabular Model
+- ROC-AUC: 0.78
+
+Ensemble
+- ROC-AUC: 0.819
 
 ---
 
