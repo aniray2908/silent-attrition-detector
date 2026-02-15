@@ -159,6 +159,29 @@ It mirrors how modern churn, fraud, and credit risk systems are built.
 - Enron email dataset — public domain
 
 ---
+## Model Performance
+
+### ROC Curve — Ensemble Model
+
+![ROC Curve](results/hr_roc_curve.png)
+
+The ensemble model achieved a ROC-AUC of **0.819**, improving robustness over standalone models.
+
+---
+
+### SHAP Feature Importance (Beeswarm)
+
+![SHAP Summary](results/shap_summary.png)
+
+SHAP analysis highlights overtime, job role, and stock option level as dominant attrition drivers.
+
+---
+
+### SHAP Feature Importance (Bar Plot)
+
+![SHAP Bar](results/shap_summary_bar.png)
+
+---
 
 ## Results
 
