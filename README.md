@@ -85,8 +85,8 @@ Key drivers include:
 
 ## Example Output
 
-Employee 1023 → Attrition Risk: 87%
-Employee 2451 → Attrition Risk: 22%
+Employee 1023 → Attrition Risk: 87%\
+Employee 2451 → Attrition Risk: 22%\
 Employee 3817 → Attrition Risk: 64%
 
 Risk amplification occurs when structural stress aligns with measurable behavioral disengagement.
