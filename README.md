@@ -1,4 +1,4 @@
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 # Silent Attrition Detector
 
