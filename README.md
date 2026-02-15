@@ -123,8 +123,8 @@ https://www.kaggle.com/datasets/wcukierski/enron-email-dataset
 
 4. Run notebooks in order:
 
-01_hr_model.ipynb
-02_behavioral_drift.ipynb
+01_hr_model.ipynb\
+02_behavioral_drift.ipynb\
 03_meta_fusion.ipynb
 
 ---
