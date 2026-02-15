@@ -1,3 +1,5 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
 # Silent Attrition Detector
 
 A modular, multi-signal machine learning system designed to detect employee attrition risk using both structured HR data and behavioral communication drift signals.
